@@ -1,0 +1,110 @@
+1 Adenocarcinoma
+2 "Adenocarcinoma, Follicular"
+3 Adenoma
+4 "Adrenocortical Carcinoma"
+5 "Alzheimer Disease"
+6 Asthma
+7 "Bladder Neoplasms"
+8 "Breast Neoplasms"
+9 "Burkitt Lymphoma"
+10 "Carcinoma, Hepatocellular"
+11 "Carcinoma, Non-Small-Cell Lung"
+12 "Carcinoma, Ovarian Epithelial"
+13 "Carcinoma, Squamous Cell"
+14 Cardiomegaly
+15 Cardiomyopathies
+16 Cholangiocarcinoma
+17 "Colitis, Ulcerative"
+18 "Colorectal Neoplasms"
+19 "Coronary Artery Disease"
+20 Dermatomyositis
+21 "Diabetes Mellitus, Type 2"
+22 "Diabetic Nephropathies"
+23 "Distal Myopathies"
+24 "Down Syndrome"
+25 "Endometrial Neoplasms"
+26 Endometriosis
+27 "Esophageal Neoplasms"
+28 "Eye Neoplasms"
+29 Glioblastoma
+30 Glioma
+31 Hamartoma
+32 "Hamartoma Syndrome, Multiple"
+33 "Head and Neck Neoplasms"
+34 "Hearing Loss"
+35 "Heart Failure"
+36 "Hodgkin Disease"
+37 "Huntington Disease"
+38 "Hypertension, Pulmonary"
+39 Insulinoma
+40 "Irritable Bowel Syndrome"
+41 "Kidney Neoplasms"
+42 "Laryngeal Neoplasms"
+43 Leiomyoma
+44 "Leukemia, Lymphocytic, Chronic, B-Cell"
+45 "Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+46 "Leukemia, Myeloid, Acute"
+47 "Leukemia, Promyelocytic, Acute"
+48 "Leukemia, T-Cell"
+49 Lipoma
+50 "Liver Cirrhosis, Biliary"
+51 "Liver Diseases"
+52 "Liver Diseases, Alcoholic"
+53 "Lung Neoplasms"
+54 "Lupus Nephritis"
+55 Lymphoma
+56 "Lymphoma, B-Cell"
+57 "Lymphoma, Follicular"
+58 "Lymphoma, Large B-Cell, Diffuse"
+59 Medulloblastoma
+60 Melanoma
+61 Meningioma
+62 "Mesothelioma, Malignant"
+63 "Metabolic Diseases"
+64 "Mouth Neoplasms"
+65 "Multiple Myeloma"
+66 "Multiple Sclerosis"
+67 "Muscular Dystrophies, Limb-Girdle"
+68 "Muscular Dystrophy, Duchenne"
+69 "Muscular Dystrophy, Facioscapulohumeral"
+70 "Myeloproliferative Disorders"
+71 "Myocardial Infarction"
+72 Myoma
+73 "Myopathies, Nemaline"
+74 "Myositis, Inclusion Body"
+75 "Nasopharyngeal Carcinoma"
+76 Neoplasms
+77 Neuroblastoma
+78 "Non-alcoholic Fatty Liver Disease"
+79 Obesity
+80 "Ovarian Neoplasms"
+81 "Pancreatic Neoplasms"
+82 "Pancreatitis, Chronic"
+83 "Parkinson Disease"
+84 "Pituitary Neoplasms"
+85 "Polycystic Kidney Diseases"
+86 "Polycythemia Vera"
+87 Polymyositis
+88 "Precursor Cell Lymphoblastic Leukemia-Lymphoma"
+89 "Primary Myelofibrosis"
+90 "Prion Diseases"
+91 "Prostatic Neoplasms"
+92 Psoriasis
+93 "Retinitis Pigmentosa"
+94 Retinoblastoma
+95 Rhabdomyosarcoma
+96 Sarcoma
+97 Sepsis
+98 "Skin Diseases"
+99 "Spinocerebellar Ataxias"
+100 "Squamous Cell Carcinoma of Head and Neck"
+101 "Stomach Neoplasms"
+102 "Testicular Neoplasms"
+103 Thalassemia
+104 "Thrombocythemia, Essential"
+105 "Thyroid Cancer, Papillary"
+106 "Thyroid Carcinoma, Anaplastic"
+107 "Uterine Cervical Neoplasms"
+108 "Vascular Diseases"
+109 "Vesicular Stomatitis"
+110 "Waldenstrom Macroglobulinemia"
